@@ -8,6 +8,9 @@ appodeal.com, 255631, DIRECT
 
 bidmachine.io, 255631, DIRECT
 
+#Facebook
+facebook.com, 717914791103160, RESELLER, c3e20eee3f780d68
+
 #Resellers
 
 9dotsmedia.com,122262,RESELLER,45ff185b4c4e857d
