@@ -239,18 +239,6 @@ instal.com,5a59277b-91e8-4b5c-a4b5-ee9a7a6c0644,RESELLER
 
 iqzone.com,IQ87,RESELLER
 
-ironsrc.com,186063,RESELLER,79929e88b2ba73bc
-
-ironsrc.com,220701,RESELLER,79929e88b2ba73bc
-
-ironsrc.com,228853,RESELLER,79929e88b2ba73bc
-
-ironsrc.com,231453,RESELLER,79929e88b2ba73bc
-
-ironsrc.com,245431,RESELLER,79929e88b2ba73bc
-
-ironsrc.com,402176,RESELLER,79929e88b2ba73bc
-
 jio.com,1547219295,RESELLER
 
 keenkale.com,93965,RESELLER,6c1c00b269ccdfa4
@@ -564,3 +552,8 @@ yieldlab.net,2172218,RESELLER
 bigo.sg,1112518,reseller
 
 applovin.com,a97e4a2a60836795b8e1433cefd17f30,RESELLER
+
+# ironsource
+OWNERDOMAIN=vidreya.com
+ironsrc.com, 389089, RESELLER
+
